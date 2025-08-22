@@ -75,4 +75,3 @@ Phishing-Email-Detection-System/
 
 ---
 
-*This project demonstrates expertise in **machine learning, email security, Chrome extension development, real-time detection, and user-centric design**, making it a strong portfolio addition.*
